@@ -4,7 +4,7 @@ Repoda 2 tane uygulama mevcut,
 1. MessageService
 QNB için yazdığım kullanıcıların şikayetleri ilettiği, bu şikayetlerin xlsx dosyasına kaydedildiği basit bir uygulama. 
 
-Çalıştırmak için öncelikle rapoyu local bilgisayarınaz clone layın. herhangi bir klasör içerisinde cmd.exe ya da bash ile aşağıdaki komutu çalıştırın.
+Çalıştırmak için öncelikle repoyu local bilgisayarınıza clone layın. herhangi bir klasör içerisinde cmd.exe ya da bash ile aşağıdaki komutu çalıştırın.
 
 git clone https://github.com/ericcsontestrepo/testrepo.git
 
