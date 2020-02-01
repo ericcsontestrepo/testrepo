@@ -51,9 +51,9 @@ uygulama ayağa kalkarken, MAINDB altına gerekli tabloları oluşturacak ve dum
 
 http://localhost:8080/
 
-adresinden uygulamayı kullanabilirsiniz.
+adresinden uygulamayı kullanabilirsiniz. uygulamada, spring boot, tyhmeleaf, jquery, hibernate, bootstrap 4 ve postgresql kullanıldı.
 
-Not. iki uygulamayı aynı anda çalıştırmayın.
+Not. iki uygulamayı aynı anda çalıştırmayın. cmd consolu uygulama çalışırken açık olmalı, logları oradan takip edebilirsiniz. 
 
 
 
