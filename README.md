@@ -31,7 +31,7 @@ Bu uygulama hibernate ile postgresql üzerinden, kullanıcı oluşturup, sayfala
 uygulamanın postgresql bağımlılığı vardır, 
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-adresinden installer yardımı ile kurulam yapın. (testler version 10.11 üzerinden yapıldı)
+adresinden installer yardımı ile kurulum yapın. (testler version 10.11 üzerinden yapıldı)
 kurulam yapılırken pgadminin de yüklendiğinden emin olun. kurulum yapılırken postgres kullanıısı için şifre istenecektir, 1234 seçin.
 
 uygulamada resources altında aplication.properties dosyası içerisinde bu şifre istenildiği gibi ayarlanabilir. 
